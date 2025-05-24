@@ -4,7 +4,7 @@ CourseSilla is a modern course catalog web application built with **Next.js**. I
 
 ## 🚀 Live Demo
 
-👉 [View Live Project](https://your-coursezilla.vercel.app)
+👉 [View Live Project](https://vercel.com/shivanicharans-projects/coursesilla-next-js/51HLEkAS16iozPXh1yaZ6i8abRkk)
 
 > ✅ Hosted on Vercel
 
